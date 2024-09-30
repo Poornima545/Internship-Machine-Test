@@ -3,7 +3,7 @@ import './App.css';
 import Login from './component/Login';
 import EmployeeForm from './component/EmployeeForm';
 import EmployeeList from './component/EmployeeList';
-
+import EmployeeUpdate from './component/EmployeeUpdate';
 
 function App() {
   return (
@@ -12,8 +12,9 @@ function App() {
         <Routes>
           <Route path='/' element={<Login />} />
           <Route path='/employeeForm' element={<EmployeeForm />} />
-          <Route path='/employeeForm/:id?' element={<EmployeeForm />} />
           <Route path='/employeeList' element={<EmployeeList />} />
+          <Route path='/employeeUpdate' element={<EmployeeUpdate />} />
+          <Route path='/employeeUpdate/:id?' element={<EmployeeUpdate/>} />
         </Routes>
       </Router>
     </div>

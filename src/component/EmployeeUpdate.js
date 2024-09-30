@@ -3,7 +3,7 @@ import { useEffect } from "react";
 import { useForm } from "react-hook-form";
 import { useNavigate, useParams } from "react-router-dom";
 
-const EmployeeForm = () => {
+const EmployeeUpdate = () => {
     const { register, handleSubmit, reset } = useForm();
     const navigate = useNavigate();
     const { id } = useParams();
@@ -36,9 +36,9 @@ const EmployeeForm = () => {
 
     return (
         <div className="container mt-5">
-            <h2 className="text-center">Employee Form</h2>
+            <h2 className="text-center">Employee Update</h2>
             <form onSubmit={handleSubmit(onSubmit)} className="w-50 mx-auto">
-                <div className="form-group mb-2">
+            <div className="form-group mb-2">
                     <label>Name</label>
                     <input
                         type="text"
@@ -142,10 +142,10 @@ const EmployeeForm = () => {
                         required
                     />
                 </div>
-                <button type="submit" className="btn btn-primary btn-block">Submit</button>
+                <button type="submit" className="btn btn-primary btn-block">Update</button>
             </form>
         </div>
     );
 };
 
-export default EmployeeForm;
+export default EmployeeUpdate;
