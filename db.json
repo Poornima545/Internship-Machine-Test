@@ -1,0 +1,74 @@
+{
+  "employees": [
+    {
+      "id": "970d",
+      "name": "Poornima ",
+      "email": "nikhilt0402@gmail.com",
+      "phone": "1234567890",
+      "designation": "sales",
+      "gender": "male",
+      "course": [
+        "MCA"
+      ],
+      "image": {
+        "0": {}
+      }
+    },
+    {
+      "id": "eb86",
+      "name": "Poornima 1",
+      "email": "poorn@gmail.com",
+      "phone": "8456092314",
+      "designation": "hr",
+      "gender": "female",
+      "course": [
+        "MCA"
+      ],
+      "image": {
+        "0": {}
+      }
+    },
+    {
+      "id": "79ad",
+      "name": "Poornima C",
+      "email": "poorn@gmail.com",
+      "phone": "8456092314",
+      "designation": "manager",
+      "gender": "male",
+      "course": [
+        "BCA"
+      ],
+      "image": {
+        "0": {}
+      }
+    },
+    {
+      "id": "1a9e",
+      "name": "Arun ",
+      "email": "nikhilt0402@gmail.com",
+      "phone": "7022844844",
+      "designation": "hr",
+      "gender": "male",
+      "course": [
+        "MCA"
+      ],
+      "image": {
+        "0": {}
+      }
+    },
+    {
+      "id": "4c1b",
+      "name": "Poornima ",
+      "email": "nikhilt0402@gmail.com",
+      "phone": "8456092314",
+      "designation": "sales",
+      "gender": "female",
+      "course": [
+        "MCA"
+      ],
+      "image": {
+        "0": {}
+      }
+    }
+  ]
+}
