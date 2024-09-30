@@ -1,40 +1,26 @@
 {
   "employees": [
     {
-      "id": "970d",
+      "id": "583e",
       "name": "Poornima ",
-      "email": "nikhilt0402@gmail.com",
-      "phone": "1234567890",
-      "designation": "manager",
-      "gender": "male",
-      "course": [
-        "MCA"
-      ],
-      "image": {
-        "0": {}
-      }
-    },
-    {
-      "id": "79ad",
-      "name": "Poornima C",
-      "email": "poorn@gmail.com",
+      "email": "poorny@gmail.com",
       "phone": "8456092314",
-      "designation": "manager",
-      "gender": "male",
-      "course": [
-        "BCA"
-      ],
-      "image": {
-        "0": {}
-      }
-    },
-    {
-      "id": "73f3",
-      "name": "Poornima 2",
-      "email": "nikhilt0402@gmail.com",
-      "phone": "1234567890",
       "designation": "hr",
       "gender": "female",
+      "image": {
+        "0": {}
+      },
+      "course": [
+        "BSC"
+      ]
+    },
+    {
+      "id": "dc07",
+      "name": "Arun",
+      "email": "arun@123.com",
+      "phone": "7022844844",
+      "designation": "sales",
+      "gender": "male",
       "course": [
         "BSC"
       ],
@@ -43,48 +29,15 @@
       }
     },
     {
-      "id": "8629",
-      "name": "Poornima 3",
-      "email": "nikhilt0402@gmail.com",
-      "phone": "8456092314",
+      "id": "26a4",
+      "name": "John",
+      "email": "Johm@123.com",
+      "phone": "48761205436",
       "designation": "hr",
       "gender": "female",
       "course": [
-        "BCA"
+        "MCA"
       ],
-      "image": {
-        "0": {}
-      }
-    },
-    {
-      "id": "0fed",
-      "name": "Poornima ",
-      "email": "nikhilt0402@gmail.com",
-      "phone": "8456092314",
-      "designation": "hr",
-      "gender": "female",
-      "image": {
-        "0": {}
-      }
-    },
-    {
-      "id": "583e",
-      "name": "Poornima ",
-      "email": "poorn@gmail.com",
-      "phone": "8456092314",
-      "designation": "sales",
-      "gender": "female",
-      "image": {
-        "0": {}
-      }
-    },
-    {
-      "id": "80cf",
-      "name": "Poornima ",
-      "email": "nikhilt0402@gmail.com",
-      "phone": "1234567890",
-      "designation": "hr",
-      "gender": "female",
       "image": {
         "0": {}
       }
