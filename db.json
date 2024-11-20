@@ -1,0 +1,46 @@
+{
+  "employees": [
+    {
+      "id": "583e",
+      "name": "Poornima ",
+      "email": "poorny@gmail.com",
+      "phone": "8456092314",
+      "designation": "hr",
+      "gender": "female",
+      "image": {
+        "0": {}
+      },
+      "course": [
+        "BSC"
+      ]
+    },
+    {
+      "id": "dc07",
+      "name": "Arun",
+      "email": "arun@123.com",
+      "phone": "7022844844",
+      "designation": "sales",
+      "gender": "male",
+      "course": [
+        "BSC"
+      ],
+      "image": {
+        "0": {}
+      }
+    },
+    {
+      "id": "26a4",
+      "name": "John",
+      "email": "Johm@123.com",
+      "phone": "48761205436",
+      "designation": "hr",
+      "gender": "female",
+      "course": [
+        "MCA"
+      ],
+      "image": {
+        "0": {}
+      }
+    }
+  ]
+}
